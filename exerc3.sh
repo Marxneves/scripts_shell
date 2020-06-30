@@ -1,4 +1,4 @@
 #!/bin/bash
-# Eu sou Tryber e...
+#Vou ter muito sucesso na programação!
 HOST=`hostname`
 echo "Este script está rodando no computador: $HOST"
