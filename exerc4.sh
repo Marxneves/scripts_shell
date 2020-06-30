@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Adicionando um comentario afim de treino.
 #EXERCICIO 4
 
 FILE="/home/marx/Desktop/scripts/_shellscript.sh"
